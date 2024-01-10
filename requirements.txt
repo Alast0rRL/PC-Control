@@ -1,0 +1,5 @@
+aiogram==2.3.0
+pyautogui
+ctypes-callable
+pyttsx3
+opencv-python
