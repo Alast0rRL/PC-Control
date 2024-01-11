@@ -1,4 +1,4 @@
-# Computer-Control
+# Computer-Control by UndaGerman
 <p>
-Computer Control bot for telegramm
+Computer Control bot for telegram
 </p>
